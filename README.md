@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I am Igor 👋
+
+ - a CTO and co-founder of (@jetrockets)[https://github.com/jetrockets]
+ - Ruby and Rails developer starting from 2008 👴🏻
+ - Crystal developer and commiter
+ - OpenSource lover
+
+### 📫 How to reach me?
+ - Twitter [@igor_alexandrov](https://twitter.com/igor_alexandrov)
+ - Telegram [@igor_alexandrov](https://t.me/igor_alexandrov)
 
 <!--
 **igor-alexandrov/igor-alexandrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
