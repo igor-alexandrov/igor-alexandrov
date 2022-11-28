@@ -2,7 +2,7 @@
 
  - CTO and co-founder of [@jetrockets](https://github.com/jetrockets)
  - Ruby and Rails developer starting from 2008 👴🏻
- - Crystal developer and commiter
+ - [Crystal](https://github.com/crystal-lang) developer and commiter
  - OpenSource lover
 
 ### 📫 How to reach me?
