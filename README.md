@@ -1,6 +1,6 @@
 ### Hi there, I am Igor 👋
 
- - a CTO and co-founder of [@jetrockets](https://github.com/jetrockets)
+ - CTO and co-founder of [@jetrockets](https://github.com/jetrockets)
  - Ruby and Rails developer starting from 2008 👴🏻
  - Crystal developer and commiter
  - OpenSource lover
