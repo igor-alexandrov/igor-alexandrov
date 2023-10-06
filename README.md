@@ -3,6 +3,7 @@
  - CTO and co-founder of [@jetrockets](https://github.com/jetrockets)
  - Ruby and Rails developer starting from 2008 👴🏻
  - [Crystal](https://github.com/crystal-lang) developer and commiter
+ - HackerNoon author [https://hackernoon.com/u/aleksandrov](https://hackernoon.com/u/aleksandrov)
  - OpenSource lover
 
 ### 📫 How to reach me?
