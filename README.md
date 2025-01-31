@@ -1,14 +1,17 @@
 ### Hi there, I am Igor 👋
 
  - CTO and co-founder of [@jetrockets](https://github.com/jetrockets)
- - Ruby and Rails developer starting from 2008 👴🏻
+ - Ruby and Rails engineer starting from 2008 👴🏻
  - Docker Captain
- - [Crystal](https://github.com/crystal-lang) developer and commiter
+ - [Crystal](https://github.com/crystal-lang) engineer and commiter
  - HackerNoon author [https://hackernoon.com/u/aleksandrov](https://hackernoon.com/u/aleksandrov)
  - OpenSource lover
 
+I have my personal tech blog: [https://igor.works/](https://igor.works/).
+
 ### 📫 How to reach me?
  - Twitter [@igor_alexandrov](https://twitter.com/igor_alexandrov)
+ - LinkedIn [@igor-aleksandrov](https://www.linkedin.com/in/igor-aleksandrov/)
  - Telegram [@igor_alexandrov](https://t.me/igor_alexandrov)
 
 <!--
