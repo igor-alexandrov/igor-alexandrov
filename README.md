@@ -7,11 +7,11 @@
  - HackerNoon author [https://hackernoon.com/u/aleksandrov](https://hackernoon.com/u/aleksandrov)
  - OpenSource lover
 
-I have my personal tech blog: [https://igor.works/](https://igor.works/).
+I write my personal tech blog: [https://igor.works](https://igor.works).
 
 ### 📫 How to reach me?
  - Twitter [@igor_alexandrov](https://twitter.com/igor_alexandrov)
- - LinkedIn [@igor-aleksandrov](https://www.linkedin.com/in/igor-aleksandrov/)
+ - LinkedIn [@igor-aleksandrov](https://www.linkedin.com/in/igor-aleksandrov)
  - Telegram [@igor_alexandrov](https://t.me/igor_alexandrov)
 
 <!--
